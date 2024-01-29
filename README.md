@@ -102,7 +102,3 @@ Welcome to the Microsoft Word Mastery Guide! This comprehensive guide will take 
 ## 7. Conclusion
 
 [Celebrate the completion of the guide and encourage further exploration of Word features.]
-
----
-
-Feel free to customize this template according to your preferences and add more specific details based on what you've learned in your university course. You can use markdown syntax to format your content, and once you're satisfied, you can either publish it as a document or push it to your GitHub repository for others to access and collaborate.
